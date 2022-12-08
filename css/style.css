@@ -8,6 +8,7 @@
 
   height: 9.6rem;
   padding: 0 4.8rem;
+  position: relative;
 }
 
 .container {
@@ -198,6 +199,7 @@
   display: flex;
   align-items: center;
   gap: 1.6rem;
+  line-height: 1.2rem;
 }
 
 .margin-bottom-md {
@@ -468,4 +470,22 @@
 
 .section-cta {
   padding: 3rem 0 12.8rem 0;
+}
+
+.btn-mobile-nav {
+  border: none;
+  background: none;
+  cursor: pointer;
+
+  display: none;
+}
+
+.icon-mobile-nav {
+  height: 4.8rem;
+  width: 4.8rem;
+  color: #333;
+}
+
+.icon-mobile-nav[name="close-outline"] {
+  display: none;
 }
