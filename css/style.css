@@ -489,3 +489,10 @@
 .icon-mobile-nav[name="close-outline"] {
   display: none;
 }
+
+.eat {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
