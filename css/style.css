@@ -496,3 +496,9 @@
   text-align: center;
   justify-content: center;
 }
+
+.fire {
+  display: flex;
+  flex-direction: column;
+  line-height: 3.5rem;
+}

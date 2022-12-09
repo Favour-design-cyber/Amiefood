@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 68%;
+  font-size: 55%;
   overflow-x: hidden;
 }
 
@@ -51,7 +51,7 @@ body {
 
 .heading-secondary {
   font-size: 3rem;
-  line-height: 1.2rem;
+  line-height: 3rem;
   /* margin-bottom: 9.6rem; */
   text-transform: uppercase;
 }
